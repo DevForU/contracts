@@ -184,7 +184,7 @@ library SafeMath {
      *
      * - The percentage `b` must be between 0 and 100 (inclusive).
      */
-    function percent(uint256 a, uint256 b) internal pure returns (uint256) {
+    function per(uint256 a, uint256 b) internal pure returns (uint256) {
         require(b <= 100, "Percentage must be between 0 and 100 (inclusive)");
         return a.mul(b).div(100);
     }
