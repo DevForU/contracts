@@ -1,0 +1,22 @@
+{
+  "name": "devforucontracts",
+  "version": "1.0.0",
+  "description": "Contracts for solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevForU/contracts.git"
+  },
+  "keywords": [
+    "solidity"
+  ],
+  "author": "DevForU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevForU/contracts/issues"
+  },
+  "homepage": "https://github.com/DevForU/contracts#readme"
+}
