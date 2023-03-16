@@ -1,5 +1,5 @@
 {
-  "name": "@devforu",
+  "name": "@devforu/contracts",
   "version": "1.0.0",
   "description": "Solidity contracts",
   "main": "index.js",
