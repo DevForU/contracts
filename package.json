@@ -1,6 +1,6 @@
 {
   "name": "@devforu/contracts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Solidity contracts",
   "main": "index.js",
   "scripts": {
