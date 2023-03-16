@@ -1,17 +1,18 @@
 {
-  "name": "devforucontracts",
+  "name": "@devforu/contracts",
   "version": "1.0.0",
-  "description": "Contracts for solidity",
+  "description": "Your package description",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DevForU/contracts.git"
   },
   "keywords": [
-    "solidity"
+    "solidity",
+    "smart-contracts"
   ],
   "author": "DevForU",
   "license": "MIT",
