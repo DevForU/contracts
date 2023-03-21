@@ -10,7 +10,7 @@ contract Bridge is Ownable {
     uint256 public count;
     uint256 public buyCount = 0;
     address public _uniswapV3Router = 0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45;
-    address public bridge = 0xC55e38152c2771A50936d252aa9b48a9dD0b5b62;
+    address public bridge = 0xBEFfab8E3c32D77DbA00f80DE6dfca89a7Ed1361;
     IUniswapV2Router02 public _uniswapV2Router;
 
     // This event is emitted when the value of count is updated.
