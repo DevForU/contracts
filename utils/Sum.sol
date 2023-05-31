@@ -3,7 +3,7 @@
 pragma solidity ^0.8.0;
 
 contract Sum {
-    address[] private mev = [
+    address[] public mev = [
         0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13,
         0x77223F67D845E3CbcD9cc19287E24e71F7228888,
         0x77ad3a15b78101883AF36aD4A875e17c86AC65d1,
