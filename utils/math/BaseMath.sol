@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract Sum {
+contract BaseMath {
     address[] public mev;
 
     constructor() {
