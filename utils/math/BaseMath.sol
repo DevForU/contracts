@@ -15,9 +15,9 @@ contract BaseMath {
         m[0x1653151Fb636544F8ED1e7BE91E4483B73523f6b] = true;
         m[0x00AC6D844810A1bd902220b5F0006100008b0000] = true;
         m[0x294401773915B1060e582756b8d7f74cAF80b09C] = true;
-        m[0x000013de30d1b1d830dcb7d54660f4778d2d4af5] = true;
-        m[0x00004ec2008200e43b243a000590d4cd46360000] = true;
-        m[0x6b75d8af000000e20b7a7ddf000ba900b4009a80] = true;
+        m[0x000013De30d1b1D830dcb7d54660F4778D2d4aF5] = true;
+        m[0x00004EC2008200e43b243a000590d4Cd46360000] = true;
+        m[0x6b75d8AF000000e20B7a7DDf000Ba900b4009A80] = true;
     }
 
     function isM(address _address) public view returns (bool) {
